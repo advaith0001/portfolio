@@ -20,7 +20,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-8 py-5">
         
         <h1 className="font-semibold text-xl text-gray-900">
-          Thakku N A
+          Advaith N A
         </h1>
 
         <div className="flex gap-8 text-sm font-medium">
