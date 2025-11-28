@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 export const metadata = {
-  title: "Thakku Portfolio",
+  title: "Advaith Portfolio",
 };
 
 export default function RootLayout({ children }) {
